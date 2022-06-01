@@ -109,6 +109,25 @@ header {
   color: #fff;
 }
 
+.social-link {
+  display: block;
+  width: auto;
+}
+
+.maps {
+  border-radius: 10px;
+}
+
+footer {
+  background: #252525;
+  color: #ffffff;
+  font-size: 12px;
+}
+
+footer a {
+  color: #ffffff;
+}
+
 body {
   font-family: 'Manrope', sans-serif;
 }
