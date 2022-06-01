@@ -55,6 +55,29 @@ header {
   line-height: 35px;
 }
 
+.tuning {
+  text-decoration: none;
+  color: #0f0f0f;
+  width: 100%;
+  padding: 15px;
+}
+
+.tuning:hover {
+  color: #0f0f0f;
+}
+
+.tuning__img {
+  width: 100%;
+  height: auto;
+}
+
+.tuning__title {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  margin-top: 15px;
+}
+
 body {
   font-family: 'Manrope', sans-serif;
 }
