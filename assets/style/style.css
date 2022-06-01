@@ -1,5 +1,6 @@
 header {
   border-bottom: 1px solid #E9E9E9;
+  background-color: #fff;
 }
 
 .contact__link {
@@ -78,7 +79,41 @@ header {
   margin-top: 15px;
 }
 
+.part a {
+  width: auto;
+}
+
+.part a img {
+  max-width: 300px;
+}
+
+.contact-block h3 {
+  color: #ffffff;
+}
+
+.contact-block {
+  color: #ffffff;
+  background: #252525;
+}
+
+.contact-block__item {
+  background-color: #444444;
+  padding: 20px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+.contact-block__item a {
+  font-size: 20px;
+  text-decoration: none;
+  color: #fff;
+}
+
 body {
   font-family: 'Manrope', sans-serif;
+}
+
+h6 {
+  color: #b4b4b4;
 }
 /*# sourceMappingURL=style.css.map */
