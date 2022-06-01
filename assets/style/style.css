@@ -1,1 +1,28 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+header {
+  border-bottom: 1px solid #E9E9E9;
+}
+
+.contact__link {
+  background-color: #3974E7;
+  color: #ffffff;
+  padding: 5px 30px;
+  font-size: 12px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.contact__link:hover {
+  color: #ffffff;
+}
+
+.contact__link span {
+  font-size: 10px;
+  font-weight: 300;
+  display: block;
+  padding-bottom: 3px;
+}
+
+body {
+  font-family: 'Manrope', sans-serif;
+}
+/*# sourceMappingURL=style.css.map */
